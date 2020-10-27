@@ -1,2 +1,2 @@
-# Traing-Angular
-Traning
+# Training-Angular
+Training
